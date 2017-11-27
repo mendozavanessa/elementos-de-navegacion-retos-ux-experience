@@ -4,7 +4,6 @@
 ### BREATHER
 Identififcando los elementos de navegacion en la pagina de Breather
 
-+ Navegacion global
 ![Texto alternativo](assets/img/vid.gif)
 
 + Navegacion local

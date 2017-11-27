@@ -4,10 +4,11 @@
 ### BREATHER
 Identififcando los elementos de navegacion en la pagina de Breather
 
-![Texto alternativo](assets/img/vid.gif)
++ Navegacion global
+[![video](assets/img/VID-20171125-WA0006.mp4)]
 
 + Navegacion local
-![Texto alternativo](assets/img/vid2.gif)
+![Texto alternativo](../assets/img/vid2.gif)
 
 ### GITHUB
 Identificando los elementos de navegacion en la pagina de Github

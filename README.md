@@ -6,11 +6,11 @@ Identififcando los elementos de navegacion en la pagina de Breather
 
 + Navegacion global
 Las opciones de navegacion global estan en esu MENU hamburguesa
-[!video](assets/img/breather.png)
+![Texto alternativo](assets/img/breather.png)
 
 + Navegacion local
 Dentro del menu hamburguesa encontramos muchas opciones entrando a una de ellas estaremos en una navegacion local
-![Texto alternativo](../assets/img/breather2.png)
+![Texto alternativo](assets/img/breather2.png)
 
 ### GITHUB
 Identificando los elementos de navegacion en la pagina de Github
